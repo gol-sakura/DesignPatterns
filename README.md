@@ -1,1 +1,1 @@
-# 👩🏻‍💻  Design Patterns 👩🏻‍💻 
+# 👩🏻‍💻  Design Patterns 
