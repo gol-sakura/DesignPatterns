@@ -6,7 +6,7 @@
         {
 
         }
-        // ommand options 
+        // orderscommands  options  in menu
         public OrderCommand DisplayOptionsMenu(int cmdoption)
         {
             switch (cmdoption)
