@@ -74,7 +74,7 @@ namespace Project_Design_Pattern
 
             var fm = market as Market;
 
-            if(fm is null)
+            if (fm is null)
             {
                 throw new ArgumentException("Compared obj should be a market instance", nameof(market));
             }

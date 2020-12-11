@@ -62,16 +62,16 @@ namespace Project_Design_Pattern
 
             var fl = obj as Flower;
 
-            if (fl is null) 
+            if (fl is null)
             {
                 throw new ArgumentException("object should be a flower instance", nameof(obj));
             }
-            var diff = string.Compare(Color, fl.Color, StringComparison.Ordinal);
+            //var diff = string.Compare(Color, fl.Color, StringComparison.Ordinal);
 
-            return diff != 0 ? diff : string.Compare(Name, fl.Name, StringComparison.Ordinal); 
+            //return diff != 0 ? diff : string.Compare(Name, fl.Name, StringComparison.Ordinal);
+            return string.Compare(Color, fl.Color, StringComparison.Ordinal);
 
-            
         }
-       
+
     }
 }
