@@ -121,7 +121,9 @@ namespace Project_Design_Pattern
 
 
             // delete subscribers
+            
             market2.DeleteSubscribers();
+            Console.WriteLine(" ----- SUBSCRIBERS HAVE BEEN DELETED -----");
 
 
 

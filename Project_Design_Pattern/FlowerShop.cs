@@ -43,7 +43,7 @@ namespace Project_Design_Pattern
             }
 
             flowers.Add(flower);
-            //Console.WriteLine("{0} ordered {1} with {2} color ", ShopName, flower.Name, flower.Color);
+            
            
         }
 

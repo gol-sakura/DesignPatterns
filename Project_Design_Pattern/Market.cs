@@ -56,7 +56,7 @@ namespace Project_Design_Pattern
         }
 
 
-        // shopw which wish to subscribe to Market notification
+        // shops which wish to subscribe to Market notification
         public IDisposable Subscribe(IObserver<Flower> observer)
         {
             if (! observers.Contains(observer))
