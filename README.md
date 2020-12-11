@@ -11,7 +11,7 @@
 - **Creational Design Pattern** 
 - **Structural Design Pattern**
 - **Behavioral Design Pattern**
----------
+
 
 ## 👾 **Design Patterns used in project** 👾
 
