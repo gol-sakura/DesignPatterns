@@ -46,11 +46,11 @@ namespace Project_Design_Pattern
 
         public void Display()
         {
-            Console.WriteLine("\n--- Ordered Flowers");
-            Console.WriteLine("\n--- Flower Name: " + Name);
-            Console.WriteLine("\n--- Color: " + Color);
-            Console.WriteLine("\n--- Amount: " + Amount.ToString());
-            Console.WriteLine("\n--- Flower Price: $" + Price.ToString());
+            Console.WriteLine("\n --- ORDERED FLOWERS ---\n");
+            Console.WriteLine("--- Flower Name: " + Name);
+            Console.WriteLine("--- Color: " + Color);
+            Console.WriteLine("--- Amount: " + Amount.ToString());
+            Console.WriteLine("--- Flower Price: $" + Price.ToString());
         }
 
         public int CompareTo(object obj)
