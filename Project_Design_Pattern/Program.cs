@@ -116,6 +116,7 @@ namespace Project_Design_Pattern
             shop1.Subscribe(market2);
             shop2.Subscribe(market1);
 
+            // unsubscribe
 
             shop1.Unsubscribe(market2);
 
