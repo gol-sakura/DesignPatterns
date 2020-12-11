@@ -1,4 +1,4 @@
-# 👩🏻‍💻  Software Design Patterns 👩🏻‍💻 
+# 👩🏻‍💻  Software Design Patterns 
 
 [![N|Solid](https://image.freepik.com/free-vector/woman-with-laptop-education-working-concept_113065-224.jpg)](https://refactoring.guru/design-patterns/csharp)
 
