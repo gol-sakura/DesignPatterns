@@ -10,7 +10,7 @@
 - **Structural Design Pattern**
 - **Behavioral Design Pattern**
 --------
-## 👾 **Design Patterns used for this project** 👾
+## 👾 **Design Patterns used in project** 👾
 
 In this project two types of Behavioral Design Pattern, Command & Observer patterns, has been used along with Factory pattern which goes under Creational Design pattern category. 
 
@@ -32,7 +32,7 @@ These principles, when combined together, make it easy for a programmer to devel
 
 [![N|Solid](https://amitshahi.dev/static/500403c0fabdd69504307a79a5417fd9/be90f/solid.jpg)](https://refactoring.guru/design-patterns/csharp)
 
-## 🤖 **SOLID Design Patterns used for this project** 🤖
+## 🤖 **SOLID Design Patterns used in project** 🤖
 
 **The Dependency Inversion Principle (DIP)** states that a high-level class must not depend upon a lower level class. They must both depend upon abstractions. And, secondly, an abstraction must not depend upon details, but the details must depend upon abstractions. This will ensure the class and ultimately the whole application is very robust and easy to maintain and expand, if required.
 
